@@ -1,7 +1,6 @@
-### Hi there 👋
 :seedling: 21 year old full-stack developer (to be) from Austria
 
-### 🛠️ I like to try a lot of things:
+### 🛠️ Tools I am familiar with:
 <div>
    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
