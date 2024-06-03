@@ -1,4 +1,4 @@
-:seedling: 21 year old full-stack developer (to be) from Austria
+:seedling: 22 year old full-stack developer (to be) from Austria
 
 <div>
    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
