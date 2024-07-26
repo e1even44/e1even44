@@ -1,6 +1,7 @@
-# Hello there 👋
+# Hello there 👋🏼
 
-Welcome to my GitHub profile! I'm Hilal, a 22 year old software developer apprentice with a passion for graphic design, fitness, nature and cars.
+Welcome to my GitHub profile!
+I'm Hilal, a 22 year old software developer apprentice with a passion for graphic design, fitness, nature and cars.
 Here you'll find my projects, contributions, and more.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YourUsername&color=brightgreen)
