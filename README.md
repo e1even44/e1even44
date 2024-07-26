@@ -1,6 +1,8 @@
-# Hello there 👋🏼
+# Hello there and Welcome to my GitHub profile 👋🏼
 
-Welcome to my GitHub profile! I'm Hilal, a 22 year old software developer apprentice with a passion for graphic design, fitness, nature and cars. Here you'll find my projects, contributions, and more.
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=pink&size=25&center=true&vCenter=true&width=800&height=200&lines=+a+22+year+old+software+developer+apprentice;passionate+about+graphic+design,+fitness,+nature+and+cars+;"></a>
+</p>  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=e1even44&color=brightgreen)
 
