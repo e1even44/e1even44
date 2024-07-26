@@ -1,7 +1,9 @@
-# Hello there and Welcome to my GitHub profile 👋🏼
+# Hello there and welcome to my GitHub profile 👋🏼  
+  
+### My name is Hilal and I am ..
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=pink&size=25&center=true&vCenter=true&width=800&height=200&lines=+a+22+year+old+software+developer+apprentice;passionate+about+graphic+design,+fitness,+nature+and+cars+;"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23FF69B4&size=25&center=true&vCenter=true&width=800&height=100&lines=+a+22+year+old+software+developer+apprentice;passionate+about+graphic+design,+fitness,+nature+and+cars+;"></a>
 </p>  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=e1even44&color=brightgreen)
