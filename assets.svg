@@ -1,0 +1,8 @@
+<svg width="100%" height="100">
+  <text x="50%" y="50%" fill="none" stroke="black" stroke-width="1" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="24">
+    <textPath href="#text-path">
+      Welcome to my GitHub profile! I'm Hilal, a 22 year old software developer apprentice with a passion for graphic design, fitness, nature and cars. Here you'll find my projects, contributions, and more.
+    </textPath>
+    <animate attributeName="stroke-dashoffset" from="0" to="-1000" dur="10s" repeatCount="indefinite" />
+  </text>
+</svg>
