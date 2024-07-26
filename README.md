@@ -65,8 +65,6 @@
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
 ## GitHub Stats
-
-![Hilal's GitHub stats](https://github-readme-stats.vercel.app/api?username=e1even44&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=e1even44&layout=compact&theme=radical)
 
 ## Connect with Me
