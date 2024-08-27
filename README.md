@@ -6,14 +6,10 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23FF69B4&size=25&center=true&vCenter=true&width=800&height=100&lines=+a+22+year+old+software+developer+apprentice;passionate+about+graphic+design,+fitness,+nature+and+cars+;"></a>
 </p>  
 
-![Profile Views](https://komarev.com/ghpvc/?username=e1even44&color=brightgreen)
-
 ## About Me
 
 - 🔭 I’m currently working on various software development projects.
 - 🌱 I’m learning and improving my skills every day.
-- 👯 I’m looking to collaborate on interesting projects.
-- ⚡ Fun fact: I love whales 🐋.
 
 ## Technologies and Tools
 
