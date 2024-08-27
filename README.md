@@ -62,7 +62,3 @@
 
 ## GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=e1even44&layout=compact&theme=radical)
-
-[## Connect with Me
-
-... Work in Progress](url)
